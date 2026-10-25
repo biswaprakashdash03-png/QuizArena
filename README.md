@@ -45,7 +45,7 @@ Choose your quiz, answer questions before time runs out, and try to beat your pr
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/QuizArena.git
+git clone https://github.com/biswaprakashdash03-png/QuizArena.git
 ```
 
 **2. Navigate to the project folder**
@@ -82,7 +82,7 @@ QuizArena uses browser local storage for best-score tracking. Scores are stored 
 
 **Biswaprakash Dash**
 
-Aspiring Software Engineer | Full-Stack Developer
+AI Full-Stack Developer | Undergraduate Student
 
 📍 Bhubaneswar, Odisha, India
 
