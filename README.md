@@ -81,8 +81,7 @@ QuizArena uses browser local storage for best-score tracking. Scores are stored 
 ## 👨‍💻 Developer
 
 **Biswaprakash Dash**
-
-AI Full-Stack Developer | Undergraduate Student
+AI Full-Stack Developer |  Undergraduate CSE Student 
 
 📍 Bhubaneswar, Odisha, India
 
